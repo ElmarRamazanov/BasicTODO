@@ -1,16 +1,60 @@
-# React + Vite
+# Simple Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A simple Todo application built with **React** and **Tailwind CSS** to practice React fundamentals.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Add new tasks
+* Delete existing tasks
+* Character limit for task input
+* Responsive and clean user interface
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Tailwind CSS
+* JavaScript (ES6+)
 
-## Expanding the Oxlint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repository.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd your-repository
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## Purpose
+
+This project was created as a practice exercise to improve understanding of:
+
+* React state management with `useState`
+* Handling user input
+* Rendering dynamic lists
+* Event handling
+* Component-based development
+
+## Future Improvements
+
+* Edit tasks
+* Mark tasks as completed
+* Filter tasks (All / Active / Completed)
+* Save tasks using Local Storage
+* Search functionality
