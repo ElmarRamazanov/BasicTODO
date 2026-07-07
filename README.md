@@ -2,6 +2,9 @@
 
 A simple Todo application built with **React** and **Tailwind CSS** to practice React fundamentals.
 
+##Screenshot
+<img width="1919" height="964" alt="Screenshot 2026-07-07 224138" src="https://github.com/user-attachments/assets/e6fbda29-e893-4b98-bc44-c67704f29ff6" />
+
 ## Features
 
 * Add new tasks
